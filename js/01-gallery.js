@@ -48,4 +48,4 @@ event.preventDefault();
 }
 }
 
-// console.log(galleryItems);
+console.log(galleryItems);
