@@ -27,9 +27,7 @@ event.preventDefault();
     if (event.target === event.currentTarget) {
         return;
     }
-    // const currentGalery = event.target.closest(".js-product-item");
-    // console.log(currentGalery);
-
+  
     const imgDataset = event.target.dataset.source;
     const imgDescription = event.alt;
 
