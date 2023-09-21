@@ -47,3 +47,7 @@ event.preventDefault();
 }
 
 console.log(galleryItems);
+
+
+1.звернутися до масиву через querySelector 
+2. в новій константі мапаю масив та діста значення через деструктурізацію та створ
